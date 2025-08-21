@@ -10,5 +10,5 @@ Zennの編集ページにMarkdown記法のチートシートを表示します�
 
 ### Download
 
-- ~~Chrome Webstore~~
+- [Chrome Webstore](https://chromewebstore.google.com/detail/jbfeaoochcpnchlbfnfgphnlghgoakco)
 - [GitHub Releases](https://github.com/otoneko1102/zenn-markdown-cheatsheet/releases)
